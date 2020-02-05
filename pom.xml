@@ -11,6 +11,7 @@
     <modules>
         <module>lecture1</module>
         <module>lecture11</module>
+        <module>lecture12</module>
     </modules>
 
     <properties>
